@@ -1,0 +1,131 @@
+Added Component: Designator=C1(Ceramic Cap)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Ceramic Cap)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D2(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D3(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D4(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D5(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D6(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D7(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=D8(2A07)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/2a07-700v-2a-diode/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "2A07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "2A07"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Terminal Block 2-pins)
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "277-1667-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Terminal Block 2-pins)
+Add component (AddParameter): Name = "MF"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = "277-1667-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U1(L298N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://electra.store/product/l298-dip-dual-full-bridge-driver/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "L298N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Electra"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier PN"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V0 Pin=C2-2
+Added Pin To Net: NetName=+5V0 Pin=U1-4
+Added Net: Name=+5V0
+Added Pin To Net: NetName=+12V0 Pin=C1-1
+Added Pin To Net: NetName=+12V0 Pin=D1-2
+Added Pin To Net: NetName=+12V0 Pin=D3-2
+Added Pin To Net: NetName=+12V0 Pin=D5-2
+Added Pin To Net: NetName=+12V0 Pin=D7-2
+Added Pin To Net: NetName=+12V0 Pin=U1-9
+Added Net: Name=+12V0
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Net: Name=GND
+Added Pin To Net: NetName=Motor1_BWD Pin=U1-7
+Added Net: Name=Motor1_BWD
+Added Pin To Net: NetName=Motor1_EN Pin=U1-6
+Added Net: Name=Motor1_EN
+Added Pin To Net: NetName=Motor1_FWD Pin=U1-5
+Added Net: Name=Motor1_FWD
+Added Pin To Net: NetName=Motor1_O1 Pin=D1-1
+Added Pin To Net: NetName=Motor1_O1 Pin=D2-2
+Added Pin To Net: NetName=Motor1_O1 Pin=J1-2
+Added Pin To Net: NetName=Motor1_O1 Pin=U1-2
+Added Net: Name=Motor1_O1
+Added Pin To Net: NetName=Motor1_O2 Pin=D3-1
+Added Pin To Net: NetName=Motor1_O2 Pin=D4-2
+Added Pin To Net: NetName=Motor1_O2 Pin=J1-1
+Added Pin To Net: NetName=Motor1_O2 Pin=U1-3
+Added Net: Name=Motor1_O2
+Added Pin To Net: NetName=Motor2_BWD Pin=U1-12
+Added Net: Name=Motor2_BWD
+Added Pin To Net: NetName=Motor2_EN Pin=U1-11
+Added Net: Name=Motor2_EN
+Added Pin To Net: NetName=Motor2_FWD Pin=U1-10
+Added Net: Name=Motor2_FWD
+Added Pin To Net: NetName=Motor2_O1 Pin=D5-1
+Added Pin To Net: NetName=Motor2_O1 Pin=D6-2
+Added Pin To Net: NetName=Motor2_O1 Pin=J3-2
+Added Pin To Net: NetName=Motor2_O1 Pin=U1-13
+Added Net: Name=Motor2_O1
+Added Pin To Net: NetName=Motor2_O2 Pin=D7-1
+Added Pin To Net: NetName=Motor2_O2 Pin=D8-2
+Added Pin To Net: NetName=Motor2_O2 Pin=J3-1
+Added Pin To Net: NetName=Motor2_O2 Pin=U1-14
+Added Net: Name=Motor2_O2
+Added Class: Name=Motor Board
+Added Room: Name=Motor Board

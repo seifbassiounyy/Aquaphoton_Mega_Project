@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Motor2_EN Pin=J2-1
+Removed Pin From Net: NetName=Motor1_BWD Pin=J2-2
+Added Pin To Net: NetName=Motor1_BWD Pin=J2-1
+Added Pin To Net: NetName=Motor2_EN Pin=J2-2
+Added Room: Name=Motor Board

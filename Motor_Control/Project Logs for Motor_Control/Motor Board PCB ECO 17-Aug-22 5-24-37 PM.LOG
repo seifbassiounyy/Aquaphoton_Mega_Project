@@ -1,0 +1,6 @@
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Ceramic Cap"; UniqueID = "\FTCOVVMY" ("\FTCOVVMY")
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Ceramic Cap"; UniqueID = "\GXYQHMVN" ("\GXYQHMVN")
+Added Component: Designator=J2(Headers 6-pins)
+Added Pin To Net: NetName=Motor1_EN Pin=J2-1
+Added Member To Class: ClassName=Motor Board Member=Component J2 Headers-6
+Added Room: Name=Motor Board

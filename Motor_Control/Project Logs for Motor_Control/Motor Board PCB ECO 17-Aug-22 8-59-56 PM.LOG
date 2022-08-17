@@ -1,0 +1,5 @@
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Ceramic Cap"; UniqueID = "\FTCOVVMY" ("\FTCOVVMY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Ceramic Cap"; UniqueID = "\GXYQHMVN" ("\GXYQHMVN")
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Room: Name=Motor Board

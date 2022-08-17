@@ -1,0 +1,9 @@
+Added Component: Designator=*(Terminal Block 3)
+Added Component: Designator=J4(Terminal Block 3)
+Added Pin To Net: NetName=+5V0 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=+12V0 Pin=J4-3
+Added Member To Class: ClassName=Motor Board Member=Component * Terminal Block 3
+Added Member To Class: ClassName=Motor Board Member=Component C1 Ceramic Capacitor
+Added Member To Class: ClassName=Motor Board Member=Component J4 Terminal Block 3
+Added Room: Name=Motor Board

@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : F:\Aqua\MegaPro\Motor_Control\Motor Board.PcbDoc
+Date     : 17-Aug-22
+Time     : 8:41:54 PM
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.6mm) (Max=1.5mm) (Preferred=0.8mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.8mm) (Conductor Width=0.8mm) (Air Gap=0.8mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.247mm < 0.254mm) Between Text "D1" (103.771mm,73.655mm) on Top Overlay And Track (103.27mm,72.46mm)(103.27mm,77.54mm) on Top Overlay Silk Text to Silk Clearance [0.247mm]
+   Violation between Silk To Silk Clearance Constraint: (0.247mm < 0.254mm) Between Text "D1" (103.771mm,73.655mm) on Top Overlay And Track (93.11mm,72.46mm)(103.27mm,72.46mm) on Top Overlay Silk Text to Silk Clearance [0.247mm]
+   Violation between Silk To Silk Clearance Constraint: (0.185mm < 0.254mm) Between Text "D3" (103.709mm,67.97mm) on Top Overlay And Track (103.27mm,66.46mm)(103.27mm,71.54mm) on Top Overlay Silk Text to Silk Clearance [0.185mm]
+   Violation between Silk To Silk Clearance Constraint: (0.185mm < 0.254mm) Between Text "D3" (103.709mm,67.97mm) on Top Overlay And Track (93.11mm,66.46mm)(103.27mm,66.46mm) on Top Overlay Silk Text to Silk Clearance [0.185mm]
+   Violation between Silk To Silk Clearance Constraint: (0.206mm < 0.254mm) Between Text "D5" (103.73mm,61.91mm) on Top Overlay And Track (103.27mm,60.46mm)(103.27mm,65.54mm) on Top Overlay Silk Text to Silk Clearance [0.206mm]
+   Violation between Silk To Silk Clearance Constraint: (0.206mm < 0.254mm) Between Text "D5" (103.73mm,61.91mm) on Top Overlay And Track (93.11mm,60.46mm)(103.27mm,60.46mm) on Top Overlay Silk Text to Silk Clearance [0.206mm]
+   Violation between Silk To Silk Clearance Constraint: (0.247mm < 0.254mm) Between Text "D7" (103.771mm,56.936mm) on Top Overlay And Track (103.27mm,54.46mm)(103.27mm,59.54mm) on Top Overlay Silk Text to Silk Clearance [0.247mm]
+   Violation between Silk To Silk Clearance Constraint: (0.251mm < 0.254mm) Between Text "J1" (91.505mm,53.639mm) on Top Overlay And Track (91mm,50.3mm)(91mm,66.5mm) on Top Overlay Silk Text to Silk Clearance [0.251mm]
+   Violation between Silk To Silk Clearance Constraint: (0.185mm < 0.254mm) Between Text "J1" (91.505mm,53.639mm) on Top Overlay And Track (93.11mm,54.46mm)(103.27mm,54.46mm) on Top Overlay Silk Text to Silk Clearance [0.185mm]
+   Violation between Silk To Silk Clearance Constraint: (0.185mm < 0.254mm) Between Text "J1" (91.505mm,53.639mm) on Top Overlay And Track (93.11mm,54.46mm)(93.11mm,59.54mm) on Top Overlay Silk Text to Silk Clearance [0.185mm]
+   Violation between Silk To Silk Clearance Constraint: (0.213mm < 0.254mm) Between Text "J2" (86.167mm,110.5mm) on Top Overlay And Track (88.3mm,105.46mm)(88.3mm,110.54mm) on Top Overlay Silk Text to Silk Clearance [0.213mm]
+   Violation between Silk To Silk Clearance Constraint: (0.215mm < 0.254mm) Between Text "J2" (86.167mm,110.5mm) on Top Overlay And Track (88.3mm,110.54mm)(106.08mm,110.54mm) on Top Overlay Silk Text to Silk Clearance [0.215mm]
+Rule Violations :12
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:01

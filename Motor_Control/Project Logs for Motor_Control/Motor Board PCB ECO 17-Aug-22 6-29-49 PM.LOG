@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Motor2_EN Pin=J2-2
+Removed Pin From Net: NetName=Motor1_EN Pin=J2-6
+Added Pin To Net: NetName=Motor1_EN Pin=J2-2
+Added Pin To Net: NetName=Motor2_EN Pin=J2-6
+Added Member To Class: ClassName=Motor Board Member=Component D1 Diode
+Added Member To Class: ClassName=Motor Board Member=Component D7 Diode
+Added Room: Name=Motor Board
