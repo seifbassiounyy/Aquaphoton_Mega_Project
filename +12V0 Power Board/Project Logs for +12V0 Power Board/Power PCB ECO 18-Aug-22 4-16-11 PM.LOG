@@ -1,0 +1,10 @@
+Added Component: Designator=U1(LM7805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://makerselectronics.com/product/regelator-7805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "LM7805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Makers"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V0 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+5V0 Pin=U1-3
+Added Member To Class: ClassName=Power Member=Component U1 LM7805
+Added Room: Name=Power

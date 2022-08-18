@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetC3_1 New Net Name=VCC
+Added Member To Class: ClassName=Power Member=Component C3 ALCapacitor
+Added Room: Name=Power
