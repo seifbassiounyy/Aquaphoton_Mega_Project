@@ -6,7 +6,7 @@ Servo ESC2;     // create servo object to control the ESC2
 #define IN1 12
 #define IN2 8
 #define IN3 7
-#define IN4 4
+#define IN4 13
 #define speedL 6
 #define speedR 11
 
